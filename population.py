@@ -104,4 +104,4 @@ print("Max weight: ", max_weight)
 print("---------------------")
 bkga.evolve()
 
-# TODO: Get rid of numpy
+# TODO: Get rid of numpy.
