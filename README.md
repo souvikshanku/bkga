@@ -13,5 +13,6 @@ where $x_i \in \\{ 0, 1 \\} \forall i$ and $x_i$ represents the number of instan
 ## Usage
 ```console
 $ git clone https://github.com/souvikshanku/bkga.git
+$ cd bkga
 $ python population.py
 ```
